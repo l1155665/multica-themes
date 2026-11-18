@@ -1,0 +1,8 @@
+{
+  "id": "fatfish-deepsea",
+  "name": "大肥鱼 · 深海",
+  "author": "音不绝",
+  "repo": "l1155665/fatfish-deepsea-theme",
+  "description": "Ocean depth for Multica: sunlit shallows in light mode, a glowing deep sea in dark mode, frosted water-glass panels, and a chubby blue-haired whale girl keeping the bottom-right corner without ever covering text.",
+  "modes": ["light", "dark"]
+}
